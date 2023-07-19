@@ -1,0 +1,6 @@
+com\alhous\cras\model\Membre.class
+com\alhous\cras\SystemInfo.class
+com\alhous\cras\App.class
+module-info.class
+com\alhous\cras\vue\Home.class
+com\alhous\cras\vue\ListMembres.class
